@@ -1,3 +1,4 @@
 [submodule "SSBW-guiones"]
 	path = SSBW-guiones
 	url = git@github.com:AlexRuiz7/SSBW-guiones.git
+	branch = master
